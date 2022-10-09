@@ -1,0 +1,19 @@
+{
+    "name": "chunge/helper",
+    "description": "常规的方法",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chunge\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "PhpChunGe",
+        "email": "544313347@qq.com"
+    }],
+    "minimum-stability": "dev"
+}
